@@ -29,7 +29,6 @@
 ![](https://raw.githubusercontent.com/xcflyworld/cdn/master/2023/0320230323185109.png)
 登录注册实现了密码加密，注册实现了注册成功即自动登录，如果出现错误，会给出信息提示，电话号码不能重复注册
 
-
 #### 餐品显示功能
 ![](https://raw.githubusercontent.com/xcflyworld/cdn/master/2023/0320230323190153.png)
 可以按照分类展示餐品信息
