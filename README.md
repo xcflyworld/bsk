@@ -25,4 +25,10 @@
 
 9.Handlebars是一种流行的JavaScript模板引擎，它可以帮助开发人员更方便地生成HTML代码或其他文本格式。Handlebars使用简单的标记语言来定义模板，通过在模板中插入变量和表达式来动态生成输出。
 
-#### 
+#### 登录注册页面
+![](https://raw.githubusercontent.com/xcflyworld/cdn/master/2023/0320230323185109.png)
+登录注册实现了密码加密，注册实现了注册成功即自动登录，如果出现错误，会给出信息提示，电话号码不能重复注册
+
+#### 餐品显示功能
+![](https://raw.githubusercontent.com/xcflyworld/cdn/master/2023/0320230323190153.png)
+可以按照分类展示餐品信息
