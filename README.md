@@ -4,7 +4,7 @@
 
 ### 项目基础架构
 
-![image-20230323171628822](C:\Users\scmie\AppData\Roaming\Typora\typora-user-images\image-20230323171628822.png)
+![image-20230323171628822](https://raw.githubusercontent.com/xcflyworld/cdn/master/2023/0320230323181758.png)
 
 #### 技术选型
 
